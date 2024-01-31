@@ -1,5 +1,7 @@
-1.simply just clone this file in your vs code 
-2. type node index.js
-3. It will start running the project on port 3000
-4. http://<localhost>/getTimeStories go to this url to get the desired result 
+# Project Setup Instructions
+
+1. Simply clone this file in your VS Code.
+2. Open your terminal and type `node index.js`.
+3. The project will start running on port 3000.
+4. Open your web browser and go to [http://localhost:3000/getTimeStories](http://localhost:3000/getTimeStories) to access the desired result.
 
